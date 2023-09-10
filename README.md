@@ -33,6 +33,12 @@
 - [Discord](https://discord.gg/Y3DJuFb3qE)
 - [Website](https://ar.io)
 
+## NOTE!
+
+
+Perlu modal token $AR sedikit, untuk biaya gas fee. $AR bisa beli di binance, atau ngecer
+![Screenshot_58](https://github.com/Megumiiiiii/ar-node/assets/98658943/de2cfade-8c74-4049-9893-d5533cd438a5)
+
 ## Spek Minimal
 
 | Spek | Ukuran |
