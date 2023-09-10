@@ -261,6 +261,7 @@ nano tools/join-network.ts
 1. Nickname mu
 2. Domain mu
 3. Catatan, bebas isi apapun
+4. qty = 10_000
 
 - Simpan, `CTRl+X` `Y` `Enter`
 
