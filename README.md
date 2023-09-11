@@ -265,10 +265,18 @@ nano tools/join-network.ts
 
 - Simpan, `CTRl+X` `Y` `Enter`
 
-### Cek Uptime
+### Cek Uptime dan ArDrive
+
+Uptime
 
 ```
 https://domainmu.zzz/ar-io/healthcheck
+```
+
+ArDrive
+
+```
+https://domainmu.zzz/wiwHEV1W1zW5S3UrhKle5l86rGpul2lxnJYr4YO9xHE
 ```
 
 ## Last....
