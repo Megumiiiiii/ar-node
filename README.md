@@ -265,6 +265,12 @@ nano tools/join-network.ts
 
 - Simpan, `CTRl+X` `Y` `Enter`
 
+### Cek Uptime
+
+```
+https://domainmu.zzz/ar-io/healthcheck
+```
+
 ## Last....
 
 - Jalankan command ini
