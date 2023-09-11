@@ -126,10 +126,18 @@ Ganti `EmailMU@gmail.com` dengan emailmu , seluruh `domainmu.zzz` dengan domain 
 sudo certbot certonly --manual --preferred-challenges dns --email EmailMu@gmail.com -d domainmu.zzz -d '*.domainmu.zzz'
 ```
 
-dilangkah ini akan ada arahan untuk mengatur `TXT Records`, ikuti saja sesuai arahan yang ada
 
-contoh jadi seperti ini
-![Screenshot_36](https://github.com/Megumiiiiii/ar-node/assets/98658943/7f7b9f17-1b27-4339-b01b-9742e46229cd)
+dilangkah ini akan ada arahan untuk mengatur `TXT Records`, ikuti saja sesuai arahan yang ada
+- copy itu, jangan Enter/Contine dulu
+- ![Screenshot_102](https://github.com/Megumiiiiii/ar-node/assets/98658943/182bbd8c-661b-4ad9-9298-d4eb6015d923)
+- pergi ke domain manager, tambahkan DNS Record
+- pilih TXT
+- name isi dengan `acme-challenge`
+- value isi dengan yang tadi copy di vps
+- ![Screenshot_36](https://github.com/Megumiiiiii/ar-node/assets/98658943/7f7b9f17-1b27-4339-b01b-9742e46229cd)
+- lalu cek https://dnschecker.org/#TXT/
+- ![Screenshot_103](https://github.com/Megumiiiiii/ar-node/assets/98658943/04c0c672-98d7-48d5-894b-5495cc9b5632)
+- kalo udh centang semua, baru ke vps lagi, continue
 
 
 ## Set Nginx
