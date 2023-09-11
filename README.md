@@ -265,7 +265,7 @@ nano tools/join-network.ts
 
 - Simpan, `CTRl+X` `Y` `Enter`
 
-### Cek Uptime dan ArDrive
+### Cek Uptime dan ArDrive di browser
 
 Uptime
 
