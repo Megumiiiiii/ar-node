@@ -132,7 +132,7 @@ dilangkah ini akan ada arahan untuk mengatur `TXT Records`, ikuti saja sesuai ar
 - ![Screenshot_102](https://github.com/Megumiiiiii/ar-node/assets/98658943/182bbd8c-661b-4ad9-9298-d4eb6015d923)
 - pergi ke domain manager, tambahkan DNS Record
 - pilih TXT
-- name isi dengan `acme-challenge`
+- name isi dengan `_acme-challenge`
 - value isi dengan yang tadi copy di vps
 - ![Screenshot_36](https://github.com/Megumiiiiii/ar-node/assets/98658943/7f7b9f17-1b27-4339-b01b-9742e46229cd)
 - lalu cek https://dnschecker.org/#TXT/
