@@ -81,7 +81,7 @@ sudo apt-get install yarn -y
 ## Open Port
 
 ```
-sudo ufw allow sshl sudo ufw allow 80; sudo ufw allow 443; sudo ufw enable
+sudo ufw allow ssh; sudo ufw allow 80; sudo ufw allow 443; sudo ufw enable
 ```
 
 ## Clone AR Repo
