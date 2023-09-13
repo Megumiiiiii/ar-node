@@ -263,13 +263,13 @@ yarn build
 nano tools/join-network.ts
 ```
 
-- ganti semua yang ditandai
-![Screenshot_41](https://github.com/Megumiiiiii/ar-node/assets/98658943/27d82bb9-5897-41f4-8268-8e0c3719162b)
+1. `qty` = `10_000`
+2. `label` = `nickname mu`
+3. `fqdn` = `domainmu.zzz`
+4. `note` = `Catatan, bebasssssssss`
 
-1. Nickname mu
-2. Domain mu
-3. Catatan, bebas isi apapun
-4. qty = 10_000
+![code](https://github.com/Megumiiiiii/ar-node/assets/98658943/45bf0c34-cd7e-48e9-82c4-67c24d2beeb0)
+
 
 - Simpan, `CTRl+X` `Y` `Enter`
 
