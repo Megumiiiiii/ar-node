@@ -300,7 +300,7 @@ nano tools/join-network.ts
 
 - Simpan, `CTRl+X` `Y` `Enter`
 
-### Cek Uptime dan ArDrive di browser
+### Cek di browser apakah normal
 
 Uptime
 
@@ -311,8 +311,15 @@ https://domainmu.zzz/ar-io/healthcheck
 ArDrive
 
 ```
-https://domainmu.zzz/wiwHEV1W1zW5S3UrhKle5l86rGpul2lxnJYr4YO9xHE
+https://ardrive.domainmu.zzz
 ```
+
+Ya pokoknya cek
+
+```
+https://domainmu.zzz/UymRNCv22DbIB1KpAtC0qy5oeC1TdGDgoEKWs7J8Y_Q
+```
+
 
 ## Last....
 
