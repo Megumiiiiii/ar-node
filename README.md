@@ -154,7 +154,7 @@ nano /etc/nginx/sites-available/default
 server {
     listen 80;
     listen [::]:80;
-    server_name <your-domain>.com *.domainmu.zzz;
+    server_name domainmu.zzz *.domainmu.zzz;
 
     location / {
         return 301 https://$host$request_uri;
@@ -165,7 +165,7 @@ server {
 server {
     listen 443 ssl;
     listen [::]:443 ssl;
-    server_name <your-domain>.com *.domainmu.zzz;
+    server_name domainmu.zzz *.domainmu.zzz;
 
     ssl_certificate /etc/letsencrypt/live/domainmu.zzz/fullchain.pem;
     ssl_certificate_key /etc/letsencrypt/live/domainmu.zzz/privkey.pem;
