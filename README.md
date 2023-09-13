@@ -209,6 +209,17 @@ sudo docker compose up -d --build
 
 Tunggu sampai selesai...........
 
+#### Selanjutnya Cek apakah berjalan
+
+- buka ini di browser mu, `IP.VPS.MU` ganti dengan IP VPS MU
+
+```
+http://IP.VPS.MU:3000/3lyxgbgEvqNSvJrTX2J7CfRychUD5KClFhhVLyTPNCQ
+```
+
+- Jika ada orang ini, SELAMAT!
+- ![3lyxgbgEvqNSvJrTX2J7CfRychUD5KClFhhVLyTPNCQ](https://github.com/Megumiiiiii/ar-node/assets/98658943/37ca28a4-b9bd-454e-b9ec-62c4aee48796)
+
 ## Jika ada update mendatang
 
 ### Stop node
@@ -236,22 +247,11 @@ sudo docker compose pull
 sudo docker compose up -d --build
 ```
 
-#### Selanjutnya Cek apakah berjalan
-
-- buka ini di browser mu, `IP.VPS.MU` ganti dengan IP VPS MU
-
-```
-http://IP.VPS.MU:3000/3lyxgbgEvqNSvJrTX2J7CfRychUD5KClFhhVLyTPNCQ
-```
-
-- Jika ada orang ini, SELAMAT!
-- ![3lyxgbgEvqNSvJrTX2J7CfRychUD5KClFhhVLyTPNCQ](https://github.com/Megumiiiiii/ar-node/assets/98658943/37ca28a4-b9bd-454e-b9ec-62c4aee48796)
-
 ## Request Test Token di discord
 - Join [Discord](https://discord.gg/Y3DJuFb3qE)
 - Ke channel `#testnet`
-- Paste web mu `https://domainmu.zzz/ar-io/info`
-- ![Screenshot_37](https://github.com/Megumiiiiii/ar-node/assets/98658943/90c9e887-d583-4610-aeba-a6fcc4e416a9)
+- Gunakan command `/apply`
+- Isi survey, lalu tunggu dikirim
 
 ***
 
