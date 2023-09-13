@@ -209,6 +209,33 @@ sudo docker compose up -d --build
 
 Tunggu sampai selesai...........
 
+## Jika ada update mendatang
+
+### Stop node
+
+```
+cd ~/ar-io-node
+sudo docker compose down
+```
+
+### Update repo
+
+```
+git pull
+```
+
+### Update image
+
+```
+sudo docker compose pull
+```
+
+### Re-build
+
+```
+sudo docker compose up -d --build
+```
+
 #### Selanjutnya Cek apakah berjalan
 
 - buka ini di browser mu, `IP.VPS.MU` ganti dengan IP VPS MU
