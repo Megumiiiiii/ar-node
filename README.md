@@ -127,17 +127,17 @@ sudo certbot certonly --manual --preferred-challenges dns --email EmailMu@gmail.
 ```
 
 
-dilangkah ini akan ada arahan untuk mengatur `TXT Records`, ikuti saja sesuai arahan yang ada
+#### dilangkah ini akan ada arahan untuk mengatur `TXT Records`, ikuti saja sesuai arahan yang ada
 - copy itu, jangan Enter/Contine dulu
-- ![Screenshot_102](https://github.com/Megumiiiiii/ar-node/assets/98658943/182bbd8c-661b-4ad9-9298-d4eb6015d923)
+- ![Screenshot_57](https://github.com/Megumiiiiii/ar-node/assets/98658943/87c1aa40-f464-4c7e-b86c-d5a5f4fe810e)
 - pergi ke domain manager, tambahkan DNS Record
 - pilih TXT
 - name isi dengan `_acme-challenge`
 - value isi dengan yang tadi copy di vps
-- ![Screenshot_36](https://github.com/Megumiiiiii/ar-node/assets/98658943/7f7b9f17-1b27-4339-b01b-9742e46229cd)
+- ![Screenshot_58](https://github.com/Megumiiiiii/ar-node/assets/98658943/0e506705-878a-437e-ac7f-1f19b6cce535)
 - lalu cek https://dnschecker.org/#TXT/
-- ![Screenshot_103](https://github.com/Megumiiiiii/ar-node/assets/98658943/04c0c672-98d7-48d5-894b-5495cc9b5632)
-- kalo udh centang semua, baru ke vps lagi, continue
+- ![Screenshot_59](https://github.com/Megumiiiiii/ar-node/assets/98658943/9e66bce1-9ebe-4a34-8ec2-c690ea865344)
+- kalo udh centang semua dan isinya benar, baru ke vps lagi, continue
 
 
 ## Set Nginx
