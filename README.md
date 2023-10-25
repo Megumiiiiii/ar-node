@@ -2,40 +2,8 @@
  
 # AR
 
-</div>
+# [Kesini](https://megumiiiiii.github.io/id/docs/what/ar/)
 
-<div align="center">
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23e609e6)](https://github.com/sponsors/Megumiiiiii)
-
-[![Twitter](https://img.shields.io/twitter/follow/megumii?style=social)](https://twitter.com/megumii_tez)
-
-[![](https://img.shields.io/static/v1?label=Telegram&message=%E2%9D%A4&logo=Telegram&color=%23e609e6)](https://t.me/KatouMegumii)
-
-<img align="top" src="https://komarev.com/ghpvc/?username=Megumiiiiii&color=e609e6&style=plastic&label=Visitors" height='35'/>
-
-
-</div>
-
-#
-
-<div align="center">
-  
-## ${\color{violet} COPAS \space SERTAIN \space SUMBER \space SU}$
-
-### ${\color{violet} DIKIRA \space BIKIN \space GINIAN \space GAK \space PERLU \space USAHA \space APA}$ 
-
-</div>
-
-## Official Links
-
-- [Announcement](https://ar.io/testnet)
-- [Docs](https://ar.io/docs/)
-- [Twitter](https://x.com/ar_io_network)
-- [Discord](https://discord.gg/Y3DJuFb3qE)
-- [Website](https://ar.io)
-
-## NOTE!
 
 
 Perlu modal token $AR sedikit, untuk biaya gas fee. $AR bisa beli di binance, atau ngecer
@@ -53,9 +21,6 @@ Perlu modal token $AR sedikit, untuk biaya gas fee. $AR bisa beli di binance, at
 
 <div align="center">
   
-# ${\color{cyan} \Huge PINDAH}$
-
-Kesini => https://elysianscriptarium.arweave.dev/
 
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
